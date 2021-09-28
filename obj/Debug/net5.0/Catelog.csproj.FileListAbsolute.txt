@@ -55,3 +55,15 @@ C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.dll
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\ref\Catelog.dll
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.pdb
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.genruntimeconfig.cache
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\DnsClient.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll

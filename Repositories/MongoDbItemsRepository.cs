@@ -8,13 +8,19 @@ namespace Catelog.Repositories
     public class MongoDbItemsRepository : IItemsRepository
     {
 
-        public MongoDbItemsRepository(IMongoClient mongoClient) {
+        private const string databaseName = "catelog";
+        private const string collectionName = "items";
 
+        private readonly IMongoCollection<Item> itemsCollection;
+        public MongoDbItemsRepository(IMongoClient mongoClient) 
+        {
+            IMongoDatabase database = mongoClient.GetDatabase(databaseName);
+            itemsCollection = database.GetCollection<Item>(collectionName);
         }
-        
+
         public void CreateItem(Item item)
         {
-            throw new NotImplementedException();
+            itemsCollection.InsertOne(item);
         }
 
         public void DeleteItem(Guid id)
