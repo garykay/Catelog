@@ -36,6 +36,11 @@ namespace Catelog.Repositories
             var index = items.FindIndex(existingitem => existingitem.Id == item.Id);
             items[index] = item;
         }
+
+        public void DeleteItem(Guid id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
