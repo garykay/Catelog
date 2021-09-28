@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj": {}
+    "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj": {
+    "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj",
+        "projectUniqueName": "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj",
         "projectName": "Catelog",
-        "projectPath": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj",
-        "packagesPath": "C:\\Users\\ReadheadG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\obj\\",
+        "projectPath": "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj",
+        "packagesPath": "/Users/garyreadhead/.nuget/packages/",
+        "outputPath": "/Volumes/Elements/Copy/07_dotNet/Catelog/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ReadheadG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/garyreadhead/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\NugetPackage": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

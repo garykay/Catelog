@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Category.Entities;
 
 namespace Catelog.Repositories{
+
     public interface IItemsRepository
     {
         Item GetItem(Guid id);
@@ -12,5 +13,8 @@ namespace Catelog.Repositories{
 
         void UpdateItem(Item item);
 
+        void DeleteItem(Guid id);
+
     }
+    
 }
