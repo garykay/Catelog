@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pCKR7UsWd1z0ok6ac7vCGwmu78EuxBCdt8gTljatMJSo+Znx0NhTcFb3T8fZCaoAP7ffFinbqKXc9cbUdfofkw==",
+  "dgSpecHash": "tuUnbA7r9i1udF3y3ML//2kfJBFByjzIUdzMQ4eSaqy+n/44E6VUo8GliOwHJNmDkwoH6n0XZet79M9sHRP0HQ==",
   "success": true,
-  "projectFilePath": "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj",
+  "projectFilePath": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj",
   "expectedPackageFiles": [
-    "/Users/garyreadhead/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/garyreadhead/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/garyreadhead/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/garyreadhead/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/garyreadhead/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/garyreadhead/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }

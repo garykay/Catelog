@@ -193,24 +193,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/garyreadhead/.nuget/packages/": {}
+    "C:\\Users\\ReadheadG\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj",
+      "projectUniqueName": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj",
       "projectName": "Catelog",
-      "projectPath": "/Volumes/Elements/Copy/07_dotNet/Catelog/Catelog.csproj",
-      "packagesPath": "/Users/garyreadhead/.nuget/packages/",
-      "outputPath": "/Volumes/Elements/Copy/07_dotNet/Catelog/obj/",
+      "projectPath": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\Catelog.csproj",
+      "packagesPath": "C:\\Users\\ReadheadG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ReadheadG\\Documents\\freecodecamp\\Catelog\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/garyreadhead/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ReadheadG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\NugetPackage": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -252,7 +259,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
