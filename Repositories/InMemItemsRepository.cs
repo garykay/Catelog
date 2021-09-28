@@ -39,8 +39,9 @@ namespace Catelog.Repositories
 
         public void DeleteItem(Guid id)
         {
-            throw new NotImplementedException();
-        }
+            var index = items.FindIndex(existingitem => existingitem.Id == id);
+            items.RemoveAt(index);
+        } 
     }
 }
 
