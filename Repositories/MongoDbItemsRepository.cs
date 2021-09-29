@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Category.Entities;
+using MongoDB.Bson;
 using MongoDB.Driver;
 
 namespace Catelog.Repositories
@@ -12,7 +13,8 @@ namespace Catelog.Repositories
         private const string collectionName = "items";
 
         private readonly IMongoCollection<Item> itemsCollection;
-        public MongoDbItemsRepository(IMongoClient mongoClient) 
+        private readonly FilterDefinitionBuilder<Item> filterBuilder = Builders<Item>.Filter;
+                public MongoDbItemsRepository(IMongoClient mongoClient) 
         {
             IMongoDatabase database = mongoClient.GetDatabase(databaseName);
             itemsCollection = database.GetCollection<Item>(collectionName);
@@ -30,12 +32,14 @@ namespace Catelog.Repositories
 
         public Item GetItem(Guid id)
         {
-            throw new NotImplementedException();
+            var filter = filterBuilder.Eq(item => item.Id, id);
+
+            return itemsCollection.Find(filter).SingleOrDefault();
         }
 
         public IEnumerable<Item> GetItems()
         {
-            throw new NotImplementedException();
+            return itemsCollection.Find(new BsonDocument()).ToList();
         }
 
         public void UpdateItem(Item item)
