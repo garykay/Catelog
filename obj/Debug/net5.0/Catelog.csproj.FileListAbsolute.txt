@@ -50,7 +50,6 @@ C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\staticwebasse
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\staticwebassets\Catelog.StaticWebAssets.xml
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\scopedcss\bundle\Catelog.styles.css
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.RazorTargetAssemblyInfo.cache
-C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.csproj.CopyComplete
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.dll
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\ref\Catelog.dll
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\obj\Debug\net5.0\Catelog.pdb
@@ -67,3 +66,6 @@ C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\win\
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\ReadheadG\Documents\freecodecamp\Catelog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
